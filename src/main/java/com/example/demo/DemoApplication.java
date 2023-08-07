@@ -23,6 +23,9 @@ public class DemoApplication {
 	String b(){
 		return "こんにちは！";
 	}
+	String c(){
+		return "やっぽー"
+	}
 
 	
 }
