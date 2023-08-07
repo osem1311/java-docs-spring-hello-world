@@ -17,4 +17,12 @@ public class DemoApplication {
 	String sayHello() {
 		return "Hello World!yahoo！";
 	}
+	String a(){
+		return "アニョハセヨ！";
+	}
+	String b(){
+		return "こんにちは！";
+	}
+
+	
 }
